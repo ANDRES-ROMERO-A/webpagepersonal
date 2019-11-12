@@ -1,6 +1,5 @@
 ## Andres Romero
-Naci el 14 de febrero del 2001
-Hobbit
+Naci el 14 de febrero del 2001 Hobbit
 Me gusta la electronica
 Soy amante al futbol
 Objetivo
