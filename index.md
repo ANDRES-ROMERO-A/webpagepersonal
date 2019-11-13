@@ -1,8 +1,7 @@
 ## Andres Romero
-Naci el 14 de febrero del 2001 Hobbit
+Naci el 14 de febrero del 2001,
 Me gusta la electronica
-Soy amante al futbol
-Objetivo
+Soy amante al futbol.
 Mi objectivo es formar una empresa de tecnologia
 <marqueen><h2>Pasatiempos</h2><marqueen>
 <ul>
@@ -10,5 +9,5 @@ Mi objectivo es formar una empresa de tecnologia
 <li> jugar futbol</li>
 <li> jugar play</li>
 <li> ir al estadio</li>
-<li> jugar ir a fiesta</li>
+<li> ir a fiesta</li>
 </ul>
